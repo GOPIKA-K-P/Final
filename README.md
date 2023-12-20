@@ -1,5 +1,3 @@
 # My Project
 
-Welcome to my project! This is a dynamic section:
-
-<!-- DYNAMIC_SECTION -->
+This content is dynamically generated: Wed Dec 20 09:43:53 UTC 2023
